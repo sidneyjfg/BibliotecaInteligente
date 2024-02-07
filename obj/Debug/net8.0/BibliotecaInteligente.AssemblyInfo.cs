@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BibliotecaInteligente")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+589610bae76c1fe7c89e003beb52b05cf1eff279")]
 [assembly: System.Reflection.AssemblyProductAttribute("BibliotecaInteligente")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BibliotecaInteligente")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
